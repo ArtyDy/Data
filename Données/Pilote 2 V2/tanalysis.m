@@ -1,8 +1,8 @@
 clearvars;
 
-sub= 'sub-07DB';
+sub= 'sub-01CB';
 
-filepath= fullfile( 'Data', sub, 'sub-07DB_infer_terror.mat');
+filepath= fullfile( 'Data', sub, 'sub-01CB_infer_time.mat');
 
 
 terror = load(filepath);
